@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
@@ -15,5 +16,7 @@ namespace Roles.Models
         public int DisplayOrder { get; set; }
 
         public DateTime CreatDateTime { get; set; } = DateTime.Now;
+        public ICollection<Product> products { get; set; }
+
     }
 }

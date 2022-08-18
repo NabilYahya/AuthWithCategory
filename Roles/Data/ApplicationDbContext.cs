@@ -15,5 +15,7 @@ namespace Roles.Data
         {
         }
         public DbSet<Category> Categories { get; set; }
+        public DbSet<Roles.Models.Test> Test { get; set; }
+        public DbSet<Roles.Models.Product> Product { get; set; }
     }
 }

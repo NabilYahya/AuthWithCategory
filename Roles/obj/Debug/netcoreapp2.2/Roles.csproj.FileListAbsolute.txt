@@ -45,3 +45,13 @@ C:\Users\HP\Desktop\NBS\rolesvsclaimsvspolicy-master\Roles\obj\Debug\netcoreapp2
 C:\Users\HP\Desktop\NBS\rolesvsclaimsvspolicy-master\Roles\obj\Debug\netcoreapp2.2\Razor\Views\Category\Create.cshtml.g.cs
 C:\Users\HP\Desktop\NBS\rolesvsclaimsvspolicy-master\Roles\obj\Debug\netcoreapp2.2\Razor\Views\Category\Delete.cshtml.g.cs
 C:\Users\HP\Desktop\NBS\rolesvsclaimsvspolicy-master\Roles\obj\Debug\netcoreapp2.2\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\HP\Desktop\NBS\rolesvsclaimsvspolicy-master\Roles\obj\Debug\netcoreapp2.2\Razor\Views\Tests\Create.cshtml.g.cs
+C:\Users\HP\Desktop\NBS\rolesvsclaimsvspolicy-master\Roles\obj\Debug\netcoreapp2.2\Razor\Views\Tests\Delete.cshtml.g.cs
+C:\Users\HP\Desktop\NBS\rolesvsclaimsvspolicy-master\Roles\obj\Debug\netcoreapp2.2\Razor\Views\Tests\Details.cshtml.g.cs
+C:\Users\HP\Desktop\NBS\rolesvsclaimsvspolicy-master\Roles\obj\Debug\netcoreapp2.2\Razor\Views\Tests\Edit.cshtml.g.cs
+C:\Users\HP\Desktop\NBS\rolesvsclaimsvspolicy-master\Roles\obj\Debug\netcoreapp2.2\Razor\Views\Tests\Index.cshtml.g.cs
+C:\Users\HP\Desktop\NBS\rolesvsclaimsvspolicy-master\Roles\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\HP\Desktop\NBS\rolesvsclaimsvspolicy-master\Roles\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\HP\Desktop\NBS\rolesvsclaimsvspolicy-master\Roles\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\HP\Desktop\NBS\rolesvsclaimsvspolicy-master\Roles\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\HP\Desktop\NBS\rolesvsclaimsvspolicy-master\Roles\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.cshtml.g.cs
